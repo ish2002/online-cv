@@ -3,166 +3,169 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ishita Mahatme
+    tagline: Student at Imperial College London
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ishita.mahatme20@imperial.ac.uk
+    phone: +44 7747834121
+    website: #do not add http://
+    linkedin: www.linkedin.com/in/ishita-mahatme-a172041b4
+    github: ish2002
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: im620
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hindi
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Travelling
         link:
 
-      - item: Snowboarding
+      - item: Photography
         link:
 
-      - item: Cooking
+      - item: Team Sports
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello there :) I am a first-year student at Imperial College London, United Kingdom,
+      pursuing a M.Eng in Computing (Artificial Intelligence and Machine Learning).
+      I was born and brought-up in Bangalore, India. I take keen interest in Mathematics and Computer Science
+      and have been consistently scoring well in the same. I currently possess knowledge of Haskell, Java, Python and MySQL. 
+      I enjoy taking part in Hackathons and brainstorming ideas with brilliant individuals.
+
 education:
-    - degree: MSc in Computer Science
+    - degree: MEng in Computer Science (Artificial Intelligence and Machine Learning)
       university: University of London
-      time: 2011 - 2012
+      time: 2020 - 2024
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+         I'm a first year computing student. I was selected to be the hall chair for my accommodation this year through which I got to meet and
+        interact with students from varied parts of the world. I had the chance to work with and for them to plan loads
+        of fun activities to keep everyone connected over the lockdown. I have also been involved in multiple cultural societies which served
+        to be a family away from home. I got involved in their subcommittees and have helped in the planning and organisation of events,
+        collaborating with other students along the way. I have also taken part in multiple hackathons, forming connections to work on projects
+        that can create an impact. This has given the exposure to learn new cultures and widen my horizons which has made me stronger and more independent.
+
+    - degree: CBSE Grade XII Board Examinations
+      university: Vyasa International School
+      time: 2019 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+        I scored an overall percentage of 97.2% with the following individual subject scores - Computer Science (98%), Mathematics (99%),
+        Physics (95%), Chemistry (95%) and English (99%). I was the academic representative of grade 12. I volunteered to help with the annual art festival.
+
+    - degree: ICSE Grade X Board Examinations
+      university: Vidyashilp Academy
+      time: 2008 - 2018
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        I scored an overall percentage of 97.6% with the following individual subject scores - Computer Science (100%), Mathematics (100%),
+        Science(Physics, Chemistry, Biology) (99%), Social Sciences(History, Geography) (99%) and English (90%).
+        I was the Captain of my school's girls' throwball team and the editor of the yearbook. I have won a Gold Medal for International Science Olympiad, 
+        Silver Medal for NASA Astronomy Olympiad and a Bronze Medal for International Mathematics Olympiad along with several awards for debate, role-plays,
+        elocution, caption and poetry-writing contests.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#experiences:
+   # - role: Lead Developer
+   #   time: 2015 - Present
+   #   company: Startup Hubs, San Francisco
+   #   details: |
+   #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+   #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+   #     Cum sociis natoque penatibus et magnis dis parturient montes,
+   #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+   #     pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+   #     enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+   #     error sit voluptatem accusantium doloremque laudantium, totam rem
+   #     aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+   #     architecto beatae vitae dicta sunt explicabo.
+   #       - Bullet point
+   #       - Bullet point
+   # - role: Senior Software Engineer
+   #   time: 2014 - 2015
+   #   company: Google, London
+   #   details: |
+   #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+   #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+   #     Cum sociis natoque penatibus et magnis dis parturient montes,
+   #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+   #     pellentesque eu, pretium quis, sem.
+   #       - Bullet point
+   #       - Bullet point
+   # - role: UI Developer
+   #   time: 2012 - 2014
+   #   company: Amazon, London
+   #   details: |
+   #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+   #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+   #     Cum sociis natoque penatibus et magnis dis parturient montes,
+   #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+   #     pellentesque eu, pretium quis, sem.
+   #       - Bullet point
+   #       - Bullet point
+#projects:
+   # title: Projects
+   # intro: >
+   #   You can list your side projects or open source libraries in this
+   #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+   #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+   # assignments:
+   #   - title: Velocity
+   #     link: "#hook"
+   #     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+   #   - title: DevStudio
+   #     link: "#"
+   #     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+   #   - title: Tempo
+   #     link: "#"
+   #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+   #   - title: Atom
+   #     link: "#"
+   #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+   #   - title: Delta
+   #     link: "#"
+   #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#publications:
+   # title: Publications
+   # intro: |
+   #   You can list your publications in this section. Lorem ipsum dolor sit
+   #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+   #   bibendum fringilla a eu lectus.
+   # papers:
+   #   - title: The Art of Computer Programming
+   #     link: "#"
+   #     authors: Donald E. Knuth
+   #     conference: Addison-Wesley, 1968
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+   #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+   #     link: "#"
+   #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+   #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+   #   - title: A syntax directed compiler for Algol 60
+   #     link: "#"
+   #     authors: Edgar T. Irons
+   #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
