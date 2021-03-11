@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Ishita Mahatme
     tagline: Student at Imperial College London
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ishita.mahatme20@imperial.ac.uk
@@ -171,23 +171,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Java
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C++
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: MySQL
+        level: 90%
+        
+      - name: IELTS (Band 8/9)
+        level: 88.89%
+      
+      - name: SAT Math (800/800)
+        level: 100%
+      
+      - name: SAT English (670/800)
+        level: 83.75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
